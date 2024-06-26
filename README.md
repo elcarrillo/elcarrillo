@@ -7,7 +7,7 @@ I am Edgar Carrillo, a Ph.D. candidate in Earth and Environmental Sciences at Va
 
 
 ## Research Interests
-- Submarine Volcanism, Oceanography, Pyroclastic Density Currents, Conduit Dynamics, Magma Bodies, Igneous Petrology, Fluid Mechanics, Mathematical Modeling
+Submarine Volcanism, Oceanography, Pyroclastic Density Currents, Conduit Dynamics, Magma Bodies, Igneous Petrology, Fluid Mechanics, Mathematical Modeling
 
 
 ## Contact
