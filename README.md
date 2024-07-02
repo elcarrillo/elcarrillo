@@ -11,9 +11,21 @@ Submarine Volcanism, Oceanography, Pyroclastic Density Currents, Conduit Dynamic
 
 
 ## Contact
-- **Email:** edgar.carrillo@vanderbilt.edu
-- **Portfolio:** [https://elcarrillo.github.io/portfolio/](https://elcarrillo.github.io/portfolio/)
-
+<p>
+  <a href="mailto:edgar.carrillo@vanderbilt.edu">
+    <img src="https://img.shields.io/badge/Email-edgar.carrillo@vanderbilt.edu-red?style=flat&logo=gmail" alt="Email">
+  </a>
+</p>
+<p>
+  <a href="https://orcid.org/0009-0006-4140-8637" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/ORCID-0000--0002--1825--0097-brightgreen?style=flat&logo=orcid" alt="ORCID">
+  </a>
+</p>
+<p>
+  <a href="https://elcarrillo.github.io/portfolio/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=flat&logo=internet-explorer" alt="Portfolio">
+  </a>
+</p>
 
 <p align="left">
 </p>
