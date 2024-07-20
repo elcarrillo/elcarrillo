@@ -3,9 +3,9 @@
 
 
 ## About Me
-I am Edgar Carrillo, a Ph.D. candidate in Earth and Environmental Sciences at Vanderbilt University, focusing on Volcano Physics. My research explores the dynamics of explosive volcanic eruptions, particularly the influence of external water on volcanic plume behavior. I have a strong background in Physics, having earned my M.S. from Fisk University and my B.S. from California State University, San Bernardino. I develop computational tools for automating tasks and modeling complex physical phenomena. These tools are made available as open-source software, ensuring that they are accessible to students, scientists, and researchers globally.
+I am Edgar Carrillo, a Ph.D. candidate in Earth and Environmental Sciences at Vanderbilt University, focusing on Volcano Physics. My research explores the dynamics of explosive volcanic eruptions, particularly the influence of external water on volcanic plume behavior. I have a strong background in Physics, having earned my M.S. from Fisk University and my B.S. from California State University, San Bernardino. I develop computational tools ranging from automating tasks to modeling complex physical phenomena. These tools are made available as open-source software, ensuring that they are accessible to students, scientists, and researchers globally.
 
-If you'd like to support my work, consider buying me a coffee to keep me inspired! 
+If you want to support my work, consider buying me a coffee! 
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/elcarrillo)
 
