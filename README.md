@@ -3,7 +3,12 @@
 
 
 ## About Me
-I am Edgar Carrillo, a Ph.D. student in Earth Science at the University of Oregon, focusing on Volcano Physics. My research explores the dynamics of explosive volcanic eruptions, particularly the influence of external water on volcanic plume behavior. I have a strong background in Physics, having earned my M.S. from Fisk University and my B.S. from California State University, San Bernardino. I develop computational tools ranging from automating tasks to modeling complex physical phenomena. These tools are made available as open-source software, ensuring that they are accessible to students, scientists, and researchers globally.
+Hello! I'm Edgar Carrillo, a Ph.D. student in Earth Science at the University of Oregon specializing in Volcano Physics. My research focuses on the dynamics of explosive volcanic eruptions, particularly how external water affects volcanic column behavior.
+
+With a strong background in Physics (B.S. and M.S.), I blend my expertise with software development to build computational tools, from automating tasks to modeling complex physical phenomena. Proficient in Python, C++, and Fortran, I utilize numerical modeling to simulate volcanic eruption processes.
+
+On this GitHub page, you'll find my open-source projects. I'm committed to making these tools accessible to students, scientists, and researchers worldwide.
+
 
 If you want to support my work, consider buying me a coffee! 
 
