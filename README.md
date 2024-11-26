@@ -7,8 +7,9 @@ Hello! I'm Edgar Carrillo, a Ph.D. student in Earth Science at the University of
 
 With a strong background in Physics (B.S. and M.S.), I blend my expertise with software development to build computational tools, from automating tasks to modeling complex physical phenomena. Proficient in Python, C++, and Fortran, I utilize numerical modeling to simulate volcanic eruption processes.
 
-On this GitHub page, you'll find my open-source projects. I'm committed to making these tools accessible to students, scientists, and researchers worldwide.
+In addition to my academic work, I’m passionate about programming and enjoy working on various side projects. These range from developing utility scripts to streamlining workflows, experimenting with machine learning algorithms, and creating small-scale applications that solve everyday problems. Whether it’s designing tools for scientific analysis or tackling hobbyist programming challenges, I embrace the opportunity to explore diverse aspects of software development.
 
+On this GitHub page, you'll find my open-source projects. I'm committed to making these tools accessible to students, scientists, and researchers worldwide.
 
 If you want to support my work, consider buying me a coffee! 
 
@@ -20,8 +21,8 @@ Submarine Volcanism, Oceanography, Pyroclastic Density Currents, Conduit Dynamic
 
 ## Contact
 <p>
-  <a href="mailto:edgar.carrillo@vanderbilt.edu">
-    <img src="https://img.shields.io/badge/Email-edgar.carrillo@vanderbilt.edu-red?style=flat&logo=gmail" alt="Email">
+  <a href="mailto:elcar@uoregon.edu">
+    <img src="https://img.shields.io/badge/Email-elcar@uoregon.edu-red?style=flat&logo=gmail" alt="Email">
   </a>
 </p>
 <p> 
